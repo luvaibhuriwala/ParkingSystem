@@ -1,2 +1,2 @@
 # ParkingSystem
-Parking Management System in Java
+Parking Management System in Java using Netbeans
